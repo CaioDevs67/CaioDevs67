@@ -4,20 +4,21 @@
 ##### Também sou apaixonado pelo desenvolvimento de jogos e pretendo estudar sobre a área futuramente.
 [![Linkedli](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-daniel-vitor-da-silva-melo-85a868231/)
 
-
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Caiodevs67&show_icons=true&theme=dracula)
-
-
 ### Tecnologias que uso no meu dia a dia!
 
-<div style="display: inline_block"><br>
+<div><br>
 <img aling="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img aling="center" alt="Ruby-on-rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 </div>
+<br>
 
-### Tecnologias mais utilizadas!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodevs67&layout=compact&theme=dracula)](https://github.com/Caiodevs67/github-readme-stats)
+
+<div><br>
+<img height"180em" src="https://github-readme-stats.vercel.app/api?username=Caiodevs67&show_icons=true&theme=dracula">
+<img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodevs67&layout=compact&theme=dracula">
+</div>
+
 
 ### Tecnologias que planejo aprender!
 
