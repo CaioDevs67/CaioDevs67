@@ -2,7 +2,6 @@
 
 ##### Sou apaixonado por tecnologia e pelo potencial em que a programação possui em mudar a vida das pessoas.
 ##### Também sou apaixonado pelo desenvolvimento de jogos e pretendo estudar sobre a área futuramente.
-[![Linkedli](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-daniel-vitor-da-silva-melo-85a868231/)
 
 ### Tecnologias que uso no meu dia a dia!
 
